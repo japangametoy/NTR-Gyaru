@@ -1,0 +1,6 @@
+2026/06/28 22:47:16 --> JoiPlay--> 6777 paths are cached.
+2026/06/28 22:47:16 --> JoiPlay--> Executable File URI = http://127.0.0.1:4263/index.html
+2026/06/28 22:47:16 --> JoiPlay--> Injected NWJSAPI from  line 41136
+2026/06/28 22:47:16 --> JoiPlay--> Injected globals.js from  line 83
+2026/06/28 22:47:17 --> JoiPlay--> [object Object] from http://127.0.0.1:4263/js/plugins/Mano_SaveFileInfo.js line 1337
+2026/06/28 22:47:19 --> JoiPlay--> ComonSave.load: common save is not existed. from http://127.0.0.1:4263/js/plugins/UTA_CommonSaveMZ.js line 606
